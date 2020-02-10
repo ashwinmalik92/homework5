@@ -94,6 +94,7 @@ footer {
 .card > ul li {
   width: 90%;
   margin: 20px auto;
+  font-size: .95em;
 }
 .card button {
   width: 90%;
