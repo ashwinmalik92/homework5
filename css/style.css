@@ -94,7 +94,6 @@ footer {
 .card > ul li {
   width: 90%;
   margin: 20px auto;
-  font-size: .95em;
 }
 .card button {
   width: 90%;
@@ -158,7 +157,7 @@ header {
 @media screen and (min-width: 850px){
   /* Cards! */
   .card {
-    flex-basis: 225px;
+    flex-basis: 250px;
   }
   .card_big {
     -webkit-transform: scaleX(1.12);
