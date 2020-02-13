@@ -183,6 +183,9 @@ header {
   body {
     background-image: none;
   }
+  .pricing {
+    align-items: flex-start;
+  }
   .card {
     flex-basis: 200px;
   }
